@@ -6,9 +6,12 @@
   - 🐦 Twitter: @estebanchos
   - 🏢 Linkedin: [Carlos O] (https://www.linkedin.com/in/carlosocampo/)
   
-[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=estebanchos&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=estebanchos&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanchos)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Credit to [Khuyen Tran] (https://github.com/anuraghazra/github-readme-stats.git) for the github and top languages stats.
 
 <!--
 **estebanchos/estebanchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
