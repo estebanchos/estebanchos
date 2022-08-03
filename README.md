@@ -3,7 +3,7 @@
 I'm a lifelong learner and I'm passionate about tech, sustainability and economic empowerement.
 
 ### About me
-- 🌱 I’m currently learning Web Development @Brainstation and I'm self teaching SwiftUI
+- 🌱 I’m a Web Developer and I'm self teaching SwiftUI
 - 😄 Pronouns: he / him
 - 💬 Ask me about sustainability and economic empowerement
 - 📫 How to reach me: 
