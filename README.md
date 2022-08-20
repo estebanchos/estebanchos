@@ -3,14 +3,25 @@
 I'm a lifelong learner and I'm passionate about tech, sustainability and economic empowerement.
 
 ### About me
-- 🌱 I’m a Web Developer and I'm self teaching SwiftUI
+- 🌱 I’m a former Product Manager turned Full-Stack Web Developer and I'm self teaching SwiftUI
 - 😄 Pronouns: he / him
+- 🔭 I’m currently working on switching careers into Software Development
 - 💬 Ask me about sustainability and economic empowerement
 - 📫 How to reach me: 
   - 🐦 Twitter: @estebanchos
   - 🏢 Linkedin: [Carlos O](https://www.linkedin.com/in/carlosocampo/)
+  - ✉️ Email: [Email](mailto:charlie@carlosocampo.ca)
+  
+### Languages and Tools
+
+
+
+## Others
+
   
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=estebanchos&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=estebanchos"/>
 
 Credit to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats.git) for the github stats widget.
 
