@@ -14,10 +14,10 @@ I'm a lifelong learner and I'm passionate about tech, sustainability and economi
   
 ### Languages and Tools
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
-<code><img width="10%" src=""> </code>
-<code><img width="10%" src=""> </code>
-<code><img width="10%" src=""> </code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+<code><img width="5%" src=""> </code>
+<code><img width="5%" src=""> </code>
 
 ## Others
 
