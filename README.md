@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos
+# Hi there, I'm Carlos
 
 I'm a lifelong learner and I'm passionate about tech, sustainability and economic empowerement.
 
@@ -13,9 +13,6 @@ I'm a lifelong learner and I'm passionate about tech, sustainability and economi
   - ✉️ [Email](mailto:charlie@carlosocampo.ca)
   
 ### Languages and Tools
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=estebanchos"/>
-
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
@@ -36,6 +33,8 @@ I'm a lifelong learner and I'm passionate about tech, sustainability and economi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=estebanchos"/>
 
 ## Others
 
