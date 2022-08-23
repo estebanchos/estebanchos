@@ -39,7 +39,7 @@ I'm a lifelong learner and I'm passionate about tech, sustainability and economi
 ## Others
 
   
-[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=estebanchos&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=estebanchos&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 Credit to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats.git) for the github stats widget.
 
