@@ -34,15 +34,6 @@ I'm a lifelong learner and I'm passionate about tech, sustainability and economi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=estebanchos"/>
-
-## Others
-
-  
-[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=estebanchos&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-Credit to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats.git) for the github stats widget.
-
 <!--
 **estebanchos/estebanchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
