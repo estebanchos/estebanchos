@@ -3,7 +3,7 @@
 I'm a lifelong learner and I'm passionate about tech, sustainability and economic empowerement.
 
 ### About me
-- 🌱 I’m a former Product Manager turned Full-Stack Web Developer
+- 🌱 I’m a former Product Manager turned Full-Stack Web Developer and Entrepreneur
 - 😄 Pronouns: he / him
 - 🔭 I’m currently working on shaping the future of Valuable & Collectibles Insurance
 - 💬 Ask me about Next.js, blockchain, smart contracts, sustainability, valuables & collectibles insurance
