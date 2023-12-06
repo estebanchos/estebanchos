@@ -3,22 +3,24 @@
 I'm a lifelong learner and I'm passionate about tech, sustainability and economic empowerement.
 
 ### About me
-- 🌱 I’m a former Product Manager turned Full-Stack Web Developer and I'm self teaching iOS development with SwiftUI
+- 🌱 I’m a former Product Manager turned Full-Stack Web Developer
 - 😄 Pronouns: he / him
-- 🔭 I’m currently working on switching careers into Software Development
-- 💬 Ask me about sustainability and economic empowerement
+- 🔭 I’m currently working on shaping the future of Valuable & Collectibles Insurance
+- 💬 Ask me about Next.js, blockchain, smart contracts, sustainability, valuables & collectibles insurance
 - 📫 How to reach me: 
-  - 🐦 Twitter: @estebanchos
   - 🏢 [LinkedIn](https://www.linkedin.com/in/carlosocampo/)
   - ✉️ [Email](mailto:charlie@carlosocampo.ca)
   
 ### Languages and Tools
-
+<code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"> </code>
+<code><img width="10%" src="https://vectorwiki.com/images/wX62h__mjml-by-mailjet.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
