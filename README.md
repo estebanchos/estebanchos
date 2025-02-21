@@ -5,7 +5,7 @@ A passionate technologist, dedicated to driving change through tech, sustainabil
 ### About me
 - 🌱 From Product Management to Full-Stack Web Development & Entrepreneurship, I love wearing multiple hats.
 - 😄 Pronouns: He/Him
-- 🔭 Currently, I'm innovating in the realm of Valuable & Collectibles Insurance.
+- 🔭 Currently, I'm innovating in the realm of Valuable & Collectibles management.
 - 💬 Let's talk about Next.js, Blockchain, Smart Contracts, and how tech can drive sustainability and protect valuables.
 - 📫 Reach out to me: 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/carlosocampo/)
