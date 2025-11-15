@@ -1,25 +1,28 @@
 # Hello World, I'm Carlos 👋
 
-A passionate technologist, dedicated to driving change through tech, sustainability, and economic empowerment.
+Full-stack engineer with deep product management experience in private banking and fintech. Passionate about building scalable, secure systems and bridging the gap between technical excellence and customer needs.
 
 ### About me
-- 🌱 From Product Management to Full-Stack Web Development & Entrepreneurship, I love wearing multiple hats.
-- 😄 Pronouns: He/Him
-- 🔭 Currently, I'm innovating in the realm of Valuable & Collectibles management.
-- 💬 Let's talk about Next.js, Blockchain, Smart Contracts, and how tech can drive sustainability and protect valuables.
-- 📫 Reach out to me: 
+- **Technical Background:** Full-stack developer skilled in Next.js, TypeScript, Node.js, and cloud-native architecture
+- **Product Expertise:** 5+ years driving product strategy and innovation in high-touch private banking (HSBC), working directly with high net worth individuals and their advisors
+- **Current Focus:** Building secure, multi-tenant SaaS platforms with enterprise-grade architecture and compliance requirements
+- **Values:** Lifelong learning, operational excellence, and using technology to solve complex financial challenges
+- **Pronouns:** He/Him
+- **Reach out to me:**
   - 🏢 [LinkedIn](https://www.linkedin.com/in/carlosocampo/)
   - ✉️ [Email](mailto:charlie@carlosocampo.ca)
 
-### My Values
-- 💡 Lifelong Learning: Always expanding my horizons.
-- 🌍 Sustainability: Committed to making a difference.
-- 💼 Empowerment: Using technology to empower others.
+### Looking For
+Senior full-stack engineering roles where I can leverage both my technical depth and fintech domain expertise. I'm particularly drawn to companies solving:
+- Complex infrastructure and platform challenges
+- Identity, authentication, and authorization at scale
+- Payment and financial systems requiring high reliability
+- Developer experience and API-first product design
 
 ### How I Can Help
-- 👥 Mentorship: Sharing knowledge in web development and product management.
-- 🗣️ Speaking: Available for talks on tech, sustainability, and entrepreneurship.
-- 🌐 Collaboration: Open to collaborate on projects that align with my values.
+- 🔧 **Technical Collaboration:** Full-stack architecture, distributed systems design, multi-tenant SaaS patterns, security and compliance infrastructure
+- 💡 **Fintech Mentorship:** Product engineering in financial services, working with compliance teams, designing for regulated environments, understanding high net worth client needs
+- 🗣️ **Speaking:** Available for discussions on scaling fintech products, building secure distributed systems, Auth/security patterns, and bridging product and engineering
 
 ### Languages and Tools
 <code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"> </code>
