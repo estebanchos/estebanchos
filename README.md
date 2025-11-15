@@ -17,7 +17,7 @@ Senior full-stack engineering roles where I can leverage both my technical depth
 - Complex infrastructure and platform challenges
 - Identity, authentication, and authorization at scale
 - Payment and financial systems requiring high reliability
-- Developer experience and API-first product design
+- Developer experience and "user-obsessed" product design
 
 ### How I Can Help
 - 🔧 **Technical Collaboration:** Full-stack architecture, distributed systems design, multi-tenant SaaS patterns, security and compliance infrastructure
