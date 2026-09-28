@@ -1,82 +1,53 @@
 # Hello World, I'm Carlos 👋
 
-Full-stack engineer with deep product management experience in private banking and fintech. Passionate about building scalable, secure systems and bridging the gap between technical excellence and customer needs.
+Product and engineering leader in fintech and wealth management. Seven years owning product strategy and growth at HSBC, three years co-founding and building a privacy-first fintech SaaS platform end to end, and a year of shipping AI-native apps. I lead products and I build them.
 
 ### About me
-- **Technical Background:** Full-stack developer skilled in Next.js, TypeScript, Node.js, and cloud-native architecture
-- **Product Expertise:** 5+ years driving product strategy and innovation in high-touch private banking (HSBC), working directly with high net worth individuals and their advisors
-- **Current Focus:** Building secure, multi-tenant SaaS platforms with enterprise-grade architecture and compliance requirements
-- **Values:** Lifelong learning, operational excellence, and using technology to solve complex financial challenges
+- **Product:** roadmaps, business cases, and go-to-market for high-net-worth banking. Grew a segment 45% in a year and delivered a credit card to 65% new-product adoption.
+- **Engineering:** full stack with Next.js, TypeScript, Node.js, and AWS. Architected a multi-tenant SaaS platform with Auth0, role-, relationship-, and attribute-based access control, SOC 2 readiness, and Jest, Playwright, and Datadog.
+- **AI:** shipped a production AI agent on the Claude API. Build daily with Claude Code, MCP integrations, and multi-agent workflows, with measured skill evaluations.
+- **Apple platforms:** Swift and SwiftUI, on-device AI with Apple Intelligence frameworks, CloudKit sharing.
 - **Pronouns:** He/Him
-- **Reach out to me:**
+- **Reach out:**
   - 🏢 [LinkedIn](https://www.linkedin.com/in/carlosocampo/)
   - ✉️ [Email](mailto:charlie@carlosocampo.ca)
 
-### Looking For
-Senior full-stack engineering roles where I can leverage both my technical depth and fintech domain expertise. I'm particularly drawn to companies solving:
-- Complex infrastructure and platform challenges
-- Identity, authentication, and authorization at scale
-- Payment and financial systems requiring high reliability
-- Developer experience and "user-obsessed" product design
+### What I'm building
+- [**Dicho**](https://github.com/estebanchos/Dicho): lightweight, fully on-device dictation for macOS. Streaming transcription and LLM cleanup with zero network calls. In daily use.
+- [**Itinerary Compass**](https://github.com/estebanchos/itinerary-compass): private, offline-first iOS travel planner with encrypted iCloud sharing for everyone on a trip. No backend, no sign-ups. Closed beta on TestFlight.
+- [**fresh-picks**](https://github.com/estebanchos/fresh-picks): headless Shopify storefront with the Next.js App Router, Storefront GraphQL API, TanStack Query, and zod.
+- [**Project Chronicle**](https://github.com/estebanchos/project-chronicle): original AoE2-style RTS in Godot 4 with deterministic lockstep.
 
-### How I Can Help
-- 🔧 **Technical Collaboration:** Full-stack architecture, distributed systems design, multi-tenant SaaS patterns, security and compliance infrastructure
-- 💡 **Fintech Mentorship:** Product engineering in financial services, working with compliance teams, designing for regulated environments, understanding high net worth client needs
-- 🗣️ **Speaking:** Available for discussions on scaling fintech products, building secure distributed systems, Auth/security patterns, and bridging product and engineering
+### Looking for
+Product leadership roles where hands-on AI fluency matters, and engineering roles on small senior teams building AI-enabled products. Toronto or remote. I am most useful where product judgment and the ability to build the thing both matter:
+- AI-enabled products in regulated industries
+- Identity, authorization, and privacy-first design
+- 0-to-1 products and new-venture teams
 
-### Languages and Tools
-<code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"> </code>
+### Languages and tools
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"> </code>
-<code><img width="10%" src="https://vectorwiki.com/images/wX62h__mjml-by-mailjet.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> </code>
+<code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"> </code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-
-<!--
-**estebanchos/estebanchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### What I'm Working On
-- 🚀 [Project Name]: Brief description. (Include links if public)
-- 🌟 [Another Project]: Describe your role and the project's impact.
-
-### 📝 Blog Posts
-I love sharing my thoughts and experiences on technology, product management, and entrepreneurship. Here are some of my latest and favorite articles:
-
-- **[Bridging the Gap: How Product Management Complements Software Development](#)**  
-  _A deep dive into how the principles of product management can enhance software development processes._
-
-- **[The Entrepreneur's Guide to Effective Software Development](#)**  
-  _Lessons learned from wearing multiple hats as an entrepreneur and a software developer._
-
-- **[Agile Product Management: Beyond the Basics](#)**  
-  _Exploring advanced concepts in Agile methodologies from a product manager's perspective._
-
-- **[Harnessing Blockchain for Innovative Solutions in Business](#)**  
-  _An exploration of how blockchain technology can be a game-changer in various business domains._
-
-- **[The Role of AI in Shaping Future Product Strategies](#)**  
-  _Predicting and preparing for the impact of Artificial Intelligence on product management._
-
-- **[From Code to Market: My Journey as a Tech Entrepreneur](#)**  
-  _Personal anecdotes and lessons from transitioning from a full-stack developer to a tech entrepreneur._
-
-
-
-(Medium or Dev.to)
--->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
+<code><img width="6%" src="https://vitest.dev/logo.svg"> </code>
+<code><img width="6%" src="https://cdn.simpleicons.org/hotjar"> </code>
+<code><img width="6%" src="https://cdn.simpleicons.org/claude"> </code>
+<code><img width="6%" src="https://playwright.dev/img/playwright-logo.svg"> </code>
+<code><img width="6%" src="https://cdn.simpleicons.org/prisma"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"> </code>
+<code><img width="6%" src="https://cdn.simpleicons.org/xcode"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg"> </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"> </code>
